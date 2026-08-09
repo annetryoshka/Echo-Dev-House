@@ -25,7 +25,7 @@ La consultora está operada por un equipo multidisciplinario bajo una estructura
 El repositorio se encuentra organizado de manera modular para garantizar la trazabilidad y el mantenimiento del software:
 
 ```text
-aja-software-consulting/
+echo-dev-house/
 ├── docs/                               # Documentación institucional, identidades, SRS y minutas
 ├── modelos/                            # Modelado de datos (SQL Server) y arquitectura técnica
 ├── src/                                # Código fuente (Backend y Frontend)
